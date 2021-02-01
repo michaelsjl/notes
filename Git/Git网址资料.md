@@ -2,7 +2,7 @@
 tags: [Git]
 title: Git网址资料
 created: '2020-12-24T03:47:36.510Z'
-modified: '2021-01-05T03:53:25.175Z'
+modified: '2021-02-01T06:11:14.696Z'
 ---
 
 # Git网址资料
@@ -16,6 +16,11 @@ modified: '2021-01-05T03:53:25.175Z'
 [git命令切换分支](https://blog.csdn.net/zhanghanlun/article/details/81806077)
 
 [Git 常用命令大全](https://blog.csdn.net/halaoda/article/details/78661334)
+
+[一台电脑如何同时玩转GitHub和公司Git服务器？](https://zhuanlan.zhihu.com/p/141975883)
+
+[一台主机下，个人 GitHub 和公司 GitLab 同时使用](https://blog.csdn.net/sGDUTBMW/article/details/108526658)
+
 
 
 

@@ -2,7 +2,7 @@
 tags: [Linux]
 title: Linux网址资料
 created: '2020-12-24T03:47:36.510Z'
-modified: '2020-12-31T05:47:56.458Z'
+modified: '2021-02-01T08:46:08.635Z'
 ---
 
 # Linux网址资料
@@ -23,3 +23,5 @@ https://blog.csdn.net/weiwangchao_/article/details/76039480
 
 为OpenResty增加nginx_upload_module模块
 https://www.cnblogs.com/kgdxpr/p/3804257.html
+
+[查看Linux内核版本](https://www.linuxprobe.com/view-linux-kernelversion.html)
