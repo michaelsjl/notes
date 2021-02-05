@@ -2,7 +2,7 @@
 tags: [QT]
 title: Qt mac端 Xcode编译 笔记
 created: '2020-12-23T07:51:31.173Z'
-modified: '2021-01-12T06:05:39.753Z'
+modified: '2021-02-03T10:59:10.651Z'
 ---
 
 # Qt mac端 Xcode编译 笔记
@@ -210,6 +210,9 @@ https://icon.wuruihong.com/#/mac
 [App Store Connect 帮助/出口合规信息概述](https://help.apple.com/app-store-connect/#/dev88f5c7bf9)
 
 [解锁macOS安全与隐私允许【任何来源】](https://blog.csdn.net/lxyoucan/article/details/111994328)
+
+[mac dmg包签名及公证](https://blog.csdn.net/luoshabugui/article/details/109295413)
+
 
 
 
