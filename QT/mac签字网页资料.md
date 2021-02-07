@@ -2,7 +2,7 @@
 tags: [QT]
 title: mac签字网页资料
 created: '2021-02-04T10:13:43.312Z'
-modified: '2021-02-05T10:11:02.412Z'
+modified: '2021-02-07T03:21:10.453Z'
 ---
 
 # mac签字网页资料
@@ -40,3 +40,12 @@ modified: '2021-02-05T10:11:02.412Z'
 [Qt Framework 问题之 framework/Versions/A:bundle format unrecognized, invalid, or unsuitable](https://www.cnblogs.com/calence/p/11920803.html)
 
 [关于苹果公证（Apple Notarizition）机制的一些总结](https://blog.csdn.net/ftpleopard/article/details/102721138)
+
+[Resolving Common Notarization Issues](https://developer.apple.com/documentation/xcode/notarizing_macos_software_before_distribution/resolving_common_notarization_issues)
+
+[使用 App 专用密码](https://support.apple.com/zh-cn/HT204397)
+
+[Customizing the Notarization Workflow](https://developer.apple.com/documentation/xcode/notarizing_macos_software_before_distribution/customizing_the_notarization_workflow)
+
+[NW.js Mac App 签名公证流程](https://www.cnblogs.com/wx1993/p/13277678.html)
+
