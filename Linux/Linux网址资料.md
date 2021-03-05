@@ -2,7 +2,7 @@
 tags: [Linux]
 title: Linux网址资料
 created: '2020-12-24T03:47:36.510Z'
-modified: '2021-02-01T08:46:08.635Z'
+modified: '2021-03-05T09:04:06.451Z'
 ---
 
 # Linux网址资料
@@ -25,3 +25,11 @@ https://blog.csdn.net/weiwangchao_/article/details/76039480
 https://www.cnblogs.com/kgdxpr/p/3804257.html
 
 [查看Linux内核版本](https://www.linuxprobe.com/view-linux-kernelversion.html)
+
+[GCC7.3 编译安装](https://blog.csdn.net/u011802646/article/details/85158162)
+
+[以太坊parity节点对gcc版本的要求及升级gcc, glibc](https://www.jianshu.com/p/e942c8a05083)
+
+
+
+

@@ -2,7 +2,7 @@
 tags: [C++]
 title: C++ 学习笔记
 created: '2021-02-18T03:07:32.648Z'
-modified: '2021-02-20T05:40:45.091Z'
+modified: '2021-03-03T06:16:59.524Z'
 ---
 
 # C++ 学习笔记
@@ -54,4 +54,25 @@ QString::number();
 例：
 int tmp = 100;
 QString str = QString::number(tmp);
+
+关键字：  
+```
+这个关键字常见的坑：
+true、false、null都不是关键字
+goto、const、是保留的关键字
+
+abstract                continue           for            new        
+switch                  default            if             package     
+synchronized            do                 goto           private     
+this                    break              double         implements   
+protected               throw              byte           else       
+import                  public             throws         case       
+enum                    instanceof         return         transient  
+catch                   extends            int            short       
+try                     char               final          interface    
+static                  void               class          finally   
+long                    strictfp           volatile       const      
+float                   native             super          while
+boolean                 assert 
+```
 

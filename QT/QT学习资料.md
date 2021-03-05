@@ -2,7 +2,7 @@
 tags: [QT]
 title: QT学习资料
 created: '2020-12-28T07:20:57.320Z'
-modified: '2020-12-31T05:54:38.863Z'
+modified: '2021-02-26T02:01:51.813Z'
 ---
 
 # QT学习资料
@@ -68,6 +68,9 @@ https://blog.csdn.net/jia666666/article/details/81627589
 [Qt 获取程序所在路径等特殊路径的方法](https://www.cnblogs.com/linuxAndMcu/p/12869383.html)
 
 [Qt5 利用QJson从文件读取Json并解析](https://blog.csdn.net/hp_cpp/article/details/80338116)
+
+[QT在connect中使用lambda实现高效的信号/槽关联](https://blog.csdn.net/cqk0100/article/details/77874142)
+
 
 
 
